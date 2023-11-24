@@ -1,2 +1,2 @@
 # Speech_emotion_reconginition
-speech emotion detection classifier
+This project is an implementation of speech emotion recognition based on a Kaggle notebook. It aims to recognize emotions from speech using various machine learning techniques.This project is based on the Kaggle notebook created by [Shivam Burnwal](https://www.kaggle.com/shivamburnwal). The original notebook can be found [here](https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/notebook). This replication is part of my learning journey in speech recognition and machine learning. It serves as a practical application of the concepts learned and a basis for future enhancements.I am currently working on it to improve the accuracy. 
